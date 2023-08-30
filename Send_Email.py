@@ -42,16 +42,16 @@ path = "D:\YK_Code/"
 contact_list = pd.read_excel(path + "email_contact.xlsx")
 
 
-trialmail = ['yadneshkolhe15@gmail.com']
+trialmail = [''] #Mail id
 for i in contact_list['Contact'].to_list():
 # for i in trialmail:
     try:
         ##---------------------------------------------------------------------------------------------------
         # put your email here
-        sender = 'yadneshkolhe15@gmail.com'
+        sender = ''
         # get the password in the gmail (manage your google account, click on the avatar on the right)
         # copy the password generated here
-        password = 'snfpmzjfmlmwvgjj'
+        password = ''
         # put the email of the receiver here
         receiver = i
         # Setup the MIME
