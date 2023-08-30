@@ -14,9 +14,6 @@ files_list = os.listdir(source)
 
 
 
-
-
-
 # split_filename = source.split(".")
 # os.rename(source,split_filename[:-1] + '_' + '-'.join())
 #

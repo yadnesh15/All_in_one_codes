@@ -12,8 +12,8 @@ import send_mail
 import pandas as pd
 import numpy as np
 #import leela_validation
-email_user = 'revseed@revnomix.com'
-email_pass = 'Revenue@123'
+email_user = ''
+email_pass = ''
 imap_url = 'imap.gmail.com'
 day =1
 attachment_path=r'D:\Swapnil All Program\alembic_report\email_data'

@@ -18,8 +18,8 @@ import database
 import re
 
 
-email_user = 'revseed@revnomix.com'
-email_pass = 'Revenue@123'
+email_user = ''
+email_pass = ''
 imap_url = 'imap.gmail.com'
 
 
