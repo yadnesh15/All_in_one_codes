@@ -35,8 +35,8 @@ Thanks.!
 With Regards,
 Yadnesh Kolhe
 
-Mobile: +91 9175379189
-Email: yadneshkolhe15@gmail.com '''
+Mobile: +91 
+Email:  '''
 
 path = "D:\YK_Code/"
 contact_list = pd.read_excel(path + "email_contact.xlsx")
